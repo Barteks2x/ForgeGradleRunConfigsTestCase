@@ -1,0 +1,7 @@
+apply plugin: 'java-library'
+
+version = '1.0'
+group = 'test' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'subproject'
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(8)
