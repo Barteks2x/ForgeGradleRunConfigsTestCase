@@ -1,4 +1,4 @@
-package com.example.examplemod2;
+package com.example.examplemod;
 
 import net.minecraftforge.fml.common.Mod;
 
